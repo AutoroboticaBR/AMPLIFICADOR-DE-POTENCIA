@@ -1,0 +1,374 @@
+Tue Feb 20 23:32:18 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\AMPLIFICADOR DE POTENCIA.MAX
+Tue Feb 20 23:34:24 Saved as file BACKUP1.MAX
+Tue Feb 20 23:34:24 Saved as file E:\MEUSDO~1\PROJETOS\AMPLIF~1\AMPLIF~1.MAX
+Tue Feb 20 23:34:25 UserDiv from Layout.INI for AutoECO: 60
+Tue Feb 20 23:34:25 Loaded file E:\MEUSDO~1\PROJETOS\AMPLIF~1\AMPLIF~1.MAX
+Tue Feb 20 23:34:25 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Tue Feb 20 23:34:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Tue Feb 20 23:34:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Thu Mar 08 00:11:03 Saved as file BACKUP1.MAX
+Thu Mar 08 00:11:03 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:11:04 UserDiv from Layout.INI for AutoECO: 60
+Thu Mar 08 00:11:04 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:11:04 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Thu Mar 08 00:11:04 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Thu Mar 08 00:11:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Thu Mar 08 00:11:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Thu Mar 08 00:11:06 Library file not found:USER.PRT
+Thu Mar 08 00:11:06 Library file not found:USER.PRT
+Thu Mar 08 00:13:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Mar 08 00:13:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Mar 08 00:13:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Thu Mar 08 00:13:26 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Thu Mar 08 00:13:26 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:13:26 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:15:08 Saved as file BACKUP1.MAX
+Thu Mar 08 00:15:08 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:15:09 UserDiv from Layout.INI for AutoECO: 60
+Thu Mar 08 00:15:09 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:15:09 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Thu Mar 08 00:15:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Thu Mar 08 00:15:10 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:15:10 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:15:10 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 00:29:57 Error code 5200.306
+Thu Mar 08 00:29:57 Saved as file Backup0.max
+Thu Mar 08 00:29:57 Windows which were open at time of error:
+Thu Mar 08 00:29:57 	ActiveWindow: Library Manager
+Thu Mar 08 00:29:57 End-of-list
+Thu Mar 08 00:29:59 Loaded file BACKUP0.MAX
+Thu Mar 08 00:39:59 Saved as file BACKUP1.MAX
+Thu Mar 08 00:49:59 Saved as file BACKUP1.MAX
+Thu Mar 08 00:59:59 Saved as file BACKUP1.MAX
+Thu Mar 08 01:09:59 Saved as file BACKUP1.MAX
+Thu Mar 08 01:19:59 Saved as file BACKUP1.MAX
+Thu Mar 08 01:29:59 Saved as file BACKUP1.MAX
+Thu Mar 08 01:39:59 Saved as file BACKUP1.MAX
+Thu Mar 08 01:50:00 Saved as file BACKUP1.MAX
+Thu Mar 08 02:00:01 Saved as file BACKUP1.MAX
+Thu Mar 08 02:10:00 Saved as file BACKUP1.MAX
+Thu Mar 08 02:20:00 Saved as file BACKUP1.MAX
+Thu Mar 08 02:30:00 Saved as file BACKUP1.MAX
+Thu Mar 08 02:40:00 Saved as file BACKUP1.MAX
+Thu Mar 08 02:50:00 Saved as file BACKUP1.MAX
+Thu Mar 08 03:00:00 Saved as file BACKUP1.MAX
+Thu Mar 08 03:10:00 Saved as file BACKUP1.MAX
+Thu Mar 08 03:20:00 Saved as file BACKUP1.MAX
+Thu Mar 08 03:30:00 Saved as file BACKUP1.MAX
+Thu Mar 08 03:40:00 Saved as file BACKUP1.MAX
+Thu Mar 08 03:50:00 Saved as file BACKUP1.MAX
+Thu Mar 08 04:00:00 Saved as file BACKUP1.MAX
+Thu Mar 08 04:10:00 Saved as file BACKUP1.MAX
+Thu Mar 08 04:20:00 Saved as file BACKUP1.MAX
+Thu Mar 08 04:30:01 Saved as file BACKUP1.MAX
+Thu Mar 08 04:40:01 Saved as file BACKUP1.MAX
+Thu Mar 08 04:50:01 Saved as file BACKUP1.MAX
+Thu Mar 08 05:00:01 Saved as file BACKUP1.MAX
+Thu Mar 08 05:10:01 Saved as file BACKUP1.MAX
+Thu Mar 08 05:20:01 Saved as file BACKUP1.MAX
+Thu Mar 08 05:30:01 Saved as file BACKUP1.MAX
+Thu Mar 08 05:40:01 Saved as file BACKUP1.MAX
+Thu Mar 08 05:50:01 Saved as file BACKUP1.MAX
+Thu Mar 08 06:00:01 Saved as file BACKUP1.MAX
+Thu Mar 08 06:10:01 Saved as file BACKUP1.MAX
+Thu Mar 08 06:20:01 Saved as file BACKUP1.MAX
+Thu Mar 08 06:30:01 Saved as file BACKUP1.MAX
+Thu Mar 08 06:40:01 Saved as file BACKUP1.MAX
+Thu Mar 08 16:27:00 Saved as file BACKUP1.MAX
+Thu Mar 08 16:27:03 Error code 0034.912 (266)
+Thu Mar 08 16:27:04 Saved as file Backup0.max
+Thu Mar 08 16:27:04 Windows which were open at time of error:
+Thu Mar 08 16:27:04 	ActiveWindow: &Design
+Thu Mar 08 16:27:04 	Icon: &Components
+Thu Mar 08 16:27:04 	Icon: &Nets
+Thu Mar 08 16:27:04 	Icon: Post Proces&s
+Thu Mar 08 16:27:04 End-of-list
+Thu Mar 08 16:27:09 Error code 0034.912 (266)
+Thu Mar 08 16:29:14 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Thu Mar 08 16:29:23 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:14:10 Saved as file BACKUP1.MAX
+Fri Mar 09 23:14:10 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:14:10 UserDiv from Layout.INI for AutoECO: 60
+Fri Mar 09 23:14:10 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:14:11 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Mar 09 23:14:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Mar 09 23:14:12 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Mar 09 23:14:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Mar 09 23:14:21 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:14:21 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:14:21 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:17:18 Saved as file BACKUP1.MAX
+Fri Mar 09 23:17:18 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:17:18 UserDiv from Layout.INI for AutoECO: 60
+Fri Mar 09 23:17:18 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:17:18 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Mar 09 23:17:18 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Mar 09 23:17:19 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Mar 09 23:17:19 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Mar 09 23:17:20 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:17:20 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\BACKUP1.MAX
+Fri Mar 09 23:23:09 Saved as file BACKUP1.MAX
+Fri Mar 09 23:33:09 Saved as file BACKUP1.MAX
+Fri Mar 09 23:43:09 Saved as file BACKUP1.MAX
+Fri Mar 09 23:53:09 Saved as file BACKUP1.MAX
+Sat Mar 10 00:03:09 Saved as file BACKUP1.MAX
+Sat Mar 10 00:13:09 Saved as file BACKUP1.MAX
+Sat Mar 10 00:23:09 Saved as file BACKUP1.MAX
+Sat Mar 10 00:31:39 Error code 0034.912 (266)
+Sat Mar 10 00:31:39 Saved as file Backup0.max
+Sat Mar 10 00:31:39 Windows which were open at time of error:
+Sat Mar 10 00:31:39 	ActiveWindow: &Design
+Sat Mar 10 00:31:39 	Icon: &Components
+Sat Mar 10 00:31:39 	Icon: &Nets
+Sat Mar 10 00:31:39 	Icon: Post Proces&s
+Sat Mar 10 00:31:39 End-of-list
+Sat Mar 10 00:31:40 Error code 0034.912 (266)

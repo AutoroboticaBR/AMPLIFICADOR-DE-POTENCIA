@@ -1,0 +1,77 @@
+(ExpressProject "Design2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\fonte.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "E:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\FONTE.DRC")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "E:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\FONTE.BOM")
+    (BOM_Merge_Include "TRUE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "E:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\FONTE.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (BOM_View_Output "TRUE"))
+  (Folder "Outputs"
+    (File ".\fonte.drc"
+      (Type "Report"))
+    (File ".\fonte.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    (L7812/TO220
+      (FullPartName "L7812/TO220.Normal")
+      (LibraryName "D:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR POL"
+      (FullPartName "CAPACITOR POL.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\fonte.dsn")
+      (Path "Design Resources" ".\fonte.dsn" "SCHEMATIC1")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 403"))
+      (Tab 0)))
+  (LastUsedLibraryBrowseDirectory "D:\Program Files\OrCAD\CAPTURE\library"))

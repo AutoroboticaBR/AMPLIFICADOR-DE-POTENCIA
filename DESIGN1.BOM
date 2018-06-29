@@ -1,0 +1,39 @@
+  Revised: Thursday, February 15, 2007
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       February 15,2007      22:11:35	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C3,C2	1uF-100V
+2	1	D1	1N4148
+3	1	D2	DIODE
+4	2	D7,LED5	AMARELO
+5	1	J2	B+
+6	1	J3	IN B
+7	1	J4	IN A
+8	5	J5,J8,J11,J12,J13	GND
+9	2	J6,J9	OUT
+10	2	J7,J10	IN
+11	2	LED1,LED4	VERMELHO
+12	2	LED6,LED3	VERDE
+13	1	PT2	RESISTOR VAR
+14	2	R15,RT1	100K
+15	2	R1,R16	10K
+16	2	R2,R17	1K8
+17	1	R4	220R
+18	1	R5	12K
+19	3	R6,R10,R14	560R
+20	1	R7	550R
+21	2	R8,R11	1K
+22	1	R9	RESISTOR
+23	1	R12	47K
+24	1	R13	150R
+25	4	U1,U2,U3,U4	LM339A/SO

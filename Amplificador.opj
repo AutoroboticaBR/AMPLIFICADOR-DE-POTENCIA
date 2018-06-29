@@ -1,0 +1,128 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\amplificador.dbk.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File
+       "E:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\AMPLIFICADOR.DBK.DRC")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "E:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\AMPLIFICADOR.DBK.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tPart\tReference\")
+    (BOM_Include_File
+       "E:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\AMPLIFICADOR.DBK.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (BOM_View_Output "FALSE")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File
+       "F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\AMPLIFICADOR.DBK.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    ( "TRUE"))
+  (Folder "Outputs"
+    (File ".\amplificador.dbk.drc"
+      (Type "Report"))
+    (File ".\amplificador.dbk.bom"
+      (Type "Report"))
+    (File ".\amplificador.dbk.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("NPN BCE"
+      (FullPartName "NPN BCE.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR POL"
+      (FullPartName "CAPACITOR POL.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    (Lbreak
+      (FullPartName "Lbreak.Normal")
+      (LibraryName "D:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    (FUSE
+      (FullPartName "FUSE.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("PNP BEC"
+      (FullPartName "PNP BEC.Normal")
+      (LibraryName "E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "F:\Meus Documentos\Projetos\Amplificador de potencia\amplificador.dbk.dsn")
+      (Path "Design Resources"
+         "F:\Meus Documentos\Projetos\Amplificador de potencia\amplificador.dbk.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "F:\Meus Documentos\Projetos\Amplificador de potencia\amplificador.dbk.dsn"
+         "SCHEMATIC1" "Potência"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 605 -4 -23 298 498 191 594"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 44 870 44 462")
+        (Scroll "502 740")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "F:\MEUS DOCUMENTOS\PROJETOS\AMPLIFICADOR DE POTENCIA\AMPLIFICADOR.DBK.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Potência")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Program Files\OrCAD\CAPTURE\LIBRARY\OldLibs"))
